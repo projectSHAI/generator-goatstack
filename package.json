@@ -1,0 +1,12 @@
+{
+  "name": "generator-goatstack",
+  "version": "0.1.0",
+  "description": "GOATstack generator",
+  "files": [
+    "generators"
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
+  }
+}
